@@ -16,7 +16,7 @@ SnippetButton は、コードスニペットを効率的に管理するための
 
 #### スニペットの追加
 
-1.  画面上部の「+」ボタン（ ![screenshot_add_snippet.png](screenshot_add_snippet.png) ）をクリックします (screenshot_add_snippet.png は、新規スニペット追加ダイアログのスクリーンショットに置き換えてください)。
+1.  画面上部の「+」ボタン（ ![screenshot_add_snippet.png](screenshot_add_snippet.png) ）をクリックします。
 2.  表示されるダイアログで、スニペットのタイトルとコードを入力します。
 3.  「保存」ボタンをクリックすると、スニペットがリストに追加されます。
 
@@ -29,7 +29,7 @@ SnippetButton は、コードスニペットを効率的に管理するための
 
 #### スニペットのインポート
 
-1.  画面上部の「インポート」ボタン（ ![screenshot_file_dialog.png](screenshot_file_dialog.png) ）をクリックします (screenshot_file_dialog.png は、ファイル選択ダイアログのスクリーンショットに置き換えてください)。
+1.  画面上部の「インポート」ボタン（ ![screenshot_file_dialog.png](screenshot_file_dialog.png) ）をクリックします。
 2.  表示されるファイル選択ダイアログで、JSON形式のスニペットデータが保存されたファイルを選択し、「開く」をクリックします。
 3.  スニペットがリストに追加されます。
 
@@ -62,7 +62,7 @@ SnippetButton is a simple desktop application for efficient code snippet managem
 
 #### Adding Snippets
 
-1.  Click the "+" button at the top of the screen ( ![screenshot_add_snippet.png](screenshot_add_snippet.png) ) (Replace screenshot_add_snippet.png with a screenshot of the new snippet dialog).
+1.  Click the "+" button at the top of the screen ( ![screenshot_add_snippet.png](screenshot_add_snippet.png) ) .
 2.  Enter the title and code for the snippet in the displayed dialog.
 3.  Click the "Save" button to add the snippet to the list.
 
@@ -75,7 +75,7 @@ Each item in the snippet list displays "Edit" and "Delete" buttons.
 
 #### Importing Snippets
 
-1.  Click the "Import" button at the top of the screen ( ![screenshot_file_dialog.png](screenshot_file_dialog.png) ) (Replace screenshot_file_dialog.png with a screenshot of the file selection dialog).
+1.  Click the "Import" button at the top of the screen ( ![screenshot_file_dialog.png](screenshot_file_dialog.png) ) .
 2.  In the displayed file selection dialog, select the JSON file containing the snippet data and click "Open".
 3.  The snippets will be added to the list.
 
